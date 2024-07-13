@@ -18,5 +18,6 @@ There are some sample solutions for the button exercises and also some diagrams 
 The Files are:
 - **ButtonTask1Layout.png**: Example Circuit Layout for Task 1
 - **ButtonTask2Layout.png**: Example Circuit Layout for Task 2
-- **Button1.ino**: Example Code for Bonus Task 1
-- **Button2.ino**: Example Code for Bonus Task 2
+- **Button1.ino**: Example Code for Task 1
+- **Button2.ino**: Example Code for Bonus Task 1
+- **Button3.ino**: Example Code for Bonus Task 2
