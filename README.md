@@ -21,3 +21,10 @@ The Files are:
 - **Button1.ino**: Example Code for Task 1
 - **Button2.ino**: Example Code for Bonus Task 1
 - **Button3.ino**: Example Code for Bonus Task 2
+
+# Build a Robot
+Within the **BuildARobot** folder, you'll find the starting and sample solution code for the mini project that we started at the end of the workshop
+
+The files are:
+- **solution_build_a_robot.ino**: The sample solution for the mini bot
+- **student_version_build_a_robot.ino**: The starter code that you should have received during the workshop
