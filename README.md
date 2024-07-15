@@ -1,30 +1,12 @@
 # 2024-Winter-Arduino-Day3
-The Solution Code for the 2024 Winter Workshop Exercises
+This is the starter code for all the code exercises.
 
-If you try to import all the code at once, the code will fail to run as they are all stored in the same folder (sketchbook) and there will be multiple `void setup` and `void loop` functions which can't compile. Because of this, if trying to copy the code, only copy and upload one file.
+These files will typically just be the `void setup() {}` and `void loop() {}` functions so if you aren't using the UNSW machines, that'll work fine as well. When trying to upload your code to the arduino, make sure to comment out all your code within the other files as the arduino may complain that you have multiple versions of `void setup` and `void loop` in the same sketchbook (folder).
 
-## Blinking and Fading Lights
-There are 3 solutions for the Blinking and Fading lights task. This is just CompClub's implementation of the tasks and there are different ways to approach this task.
+## Resources
+- [Slides](https://go.compclub.org/slides/arduino)
 
-The Files are:
-- **Blink1.ino**: The original problem
-- **Blink2.ino**: Bonus Task 1
-- **Blink3.ino**: Bonus Task 2
-- **BasicLEDSetup.png**: Example Circuit layout of the LED circuit
-
-## Buttons
-There are some sample solutions for the button exercises and also some diagrams for a basic layout for each of the button tasks
-
-The Files are:
-- **ButtonTask1Layout.png**: Example Circuit Layout for Task 1
-- **ButtonTask2Layout.png**: Example Circuit Layout for Task 2
-- **Button1.ino**: Example Code for Task 1
-- **Button2.ino**: Example Code for Bonus Task 1
-- **Button3.ino**: Example Code for Bonus Task 2
-
-# Build a Robot
-Within the **BuildARobot** folder, you'll find the starting and sample solution code for the mini project that we started at the end of the workshop
-
-The files are:
-- **solution_build_a_robot.ino**: The sample solution for the mini bot
-- **student_version_build_a_robot.ino**: The starter code that you should have received during the workshop
+## Exercise Files:
+- Blinking lights exercise file can be found [here](./BlinkingLights/Blink.ino)
+- Button exercise file can be found [here](./ButtonMashing/Button.ino)
+- Build A Robot starter code can be found [here](./BuildARobot/buildARobot.ino)
